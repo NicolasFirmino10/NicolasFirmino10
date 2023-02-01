@@ -1,5 +1,5 @@
-Olá, eu sou Nicolas Firmino! 👋
+Hello, eu sou Nicolas Firmino! 👋
 
-🌱 Atualmente estou aprendendo Java Script
+🌱I'm currently learning Javascript
 
-📫 Como chegar: Instagram: @nicolasfirmino23
+📫: Instagram: @nicolasfirmino23
