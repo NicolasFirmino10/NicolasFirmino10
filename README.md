@@ -1,4 +1,4 @@
-## Olá, eu sou o Nicolas Firmino, estudante de Desenvolvimento Web!👋
+## Olá, eu sou o Nicolas Firmino, Desenvolvedor Front End!👋
 <a href="https://github.com/nicolasfirmino10">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nicolasfirmino10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicolasfirmino10&layout=compact&langs_count=7&theme=dark"/>
