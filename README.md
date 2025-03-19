@@ -106,25 +106,24 @@ Atualmente, estou aprofundando meus conhecimentos em análise de dados e serviç
     </h2>
     <div id="certificados">
       <div class="certificado">
-        <a href="#">
-          <img src="https://i.imgur.com/vKzHgap.png" alt="Logo da Empresa/Instituição" width="80" height="80" align="left" />
-        </a>
         <p>
-          <strong>[Nome do Certificado]</strong> <br />
-          [Nome da Empresa/Instituição] <br />
-          [Data da Verificação Emitida do Certificado] <br />
-          <a href="#">[Link Para Exibir Credencial]</a>
+          <strong>Python</strong> <br />
+         Digital Innovation One (DIO) <br />
+           Nov de 2024 <br />
         </p>
       </div>
       <div class="certificado">
-        <a href="#">
-          <img src="https://i.imgur.com/vKzHgap.png" alt="Logo da Empresa/Instituição" width="80" height="80" align="left" />
-        </a>
         <p>
-          <strong>[Nome do Certificado]</strong> <br />
-          [Nome da Empresa/Instituição] <br />
-          [Data da Verificação Emitida do Certificado] <br />
-          <a href="#">[Link Para Exibir Credencial]</a>
+          <strong>Python para IA</strong> <br />
+          Asimov Academy  <br />
+          Nov de 2024 <br />
+        </p>
+      </div>
+      <div class="certificado">
+        <p>
+          <strong>React.js </strong> <br />
+         B7Web <br />
+        Out de 2023 <br />
         </p>
       </div>
     </div>
@@ -132,18 +131,14 @@ Atualmente, estou aprofundando meus conhecimentos em análise de dados e serviç
   <section id="secao-de-cursos">
     <h2>
       <img src="https://i.imgur.com/AN80nKv.png" width="32px" align="center" />
-      Cursos
+      Cursos (Em andamento)
     </h2>
     <div id="cursos">
       <div class="curso">
-        <a href="#">
-          <img src="https://i.imgur.com/vKzHgap.png" alt="Logo da Empresa/Instituição" width="80" height="80" align="left" />
-        </a>
         <p>
-          <strong>[Nome do Curso]</strong> <br />
-          [Nome da Empresa/Instituição] <br />
-          [Data de Conclusão do Curso] <br />
-          [Número do Certificado do Curso]
+          <strong>Re/Start + IA</strong> <br />
+          Escola da Nuvem <br />
+          Jul de 2025 <br />
         </p>
       </div>
     </div>
@@ -156,10 +151,9 @@ Atualmente, estou aprofundando meus conhecimentos em análise de dados e serviç
     <div id="idiomas">
       <div class="idioma">
         <h3>
-          <img src="https://i.imgur.com/vKzHgap.png" width="24px" height="24px" align="center" />
-          [Nome do Idioma]
+          Inglês
         </h3>
-        <p>[Seu Nível do Idioma]</p>
+        <p>Intermediário</p>
       </div>
     </div>
   </section>
@@ -169,30 +163,13 @@ Atualmente, estou aprofundando meus conhecimentos em análise de dados e serviç
       Contato
     </h2>
     <div id="contatos">
-      <a href="#" class="contato">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" />
-      </a>
-      <a href="#" class="contato">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" />
-      </a>
-      <a href="#" class="contato">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white" />
-      </a>
+    <a href="mailto:nicolasneuma10@gmail.com" class="contato" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/nicolas-firmino/" class="contato" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
     </div>
   </section>
 </main>
 
-<!--
-**pedroeuzebioo/pedroeuzebioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
