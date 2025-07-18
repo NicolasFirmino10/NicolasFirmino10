@@ -73,7 +73,6 @@ Atualmente, estou aprofundando meus conhecimentos em análise de dados e serviç
       Tecnologias
     </h2>
     <h3>
-      <img src="https://i.imgur.com/f5Mth4C.png" width="24px" align="center" />
       Front-end
     </h3>
     <div id="front-end-tecnologias">
@@ -87,16 +86,22 @@ Atualmente, estou aprofundando meus conhecimentos em análise de dados e serviç
       <img src="https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white" alt="Styled Components" class="tecnologia" />
     </div>
     <h3>
-      <img src="https://i.imgur.com/JGp84ub.png" width="24px" align="center" />
       Back-end e Banco de Dados
     </h3>
     <div id="back-end-e-banco-de-dados-tecnologias">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux" class="tecnologia" />
       <img src="https://img.shields.io/badge/Python-3982CE?style=plastic&logo=Python&logoColor=white" alt="Python" class="tecnologia" />
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="Node.js" class="tecnologia" />
       <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="Express.js" class="tecnologia" />
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL" class="tecnologia" />
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL" class="tecnologia" />
       <img src="https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white" alt="Prisma" class="tecnologia" />
+    </div>
+      <h3>
+      Cloud
+    </h3>
+     <div id="cloud">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS" class="tecnologia" />
     </div>
   </section>
   <section id="secao-de-certificados">
@@ -107,16 +112,23 @@ Atualmente, estou aprofundando meus conhecimentos em análise de dados e serviç
     <div id="certificados">
       <div class="certificado">
         <p>
+          <strong>AWS Cloud Practitioner</strong> <br />
+          AWS<br />
+          Jun de 2025 <br />
+        </p>
+      </div>
+      <div class="certificado">
+        <p>
           <strong>Python</strong> <br />
-         Digital Innovation One (DIO) <br />
+         Digital Innovation One (DIO)<br />
            Nov de 2024 <br />
         </p>
       </div>
       <div class="certificado">
         <p>
-          <strong>Python para IA</strong> <br />
-          Asimov Academy  <br />
-          Nov de 2024 <br />
+          <strong>Python para IA</strong><br />
+          Asimov Academy<br />
+         Nov de 2024<br />
         </p>
       </div>
       <div class="certificado">
@@ -131,7 +143,7 @@ Atualmente, estou aprofundando meus conhecimentos em análise de dados e serviç
   <section id="secao-de-cursos">
     <h2>
       <img src="https://i.imgur.com/AN80nKv.png" width="32px" align="center" />
-      Cursos (Em andamento)
+      Cursos
     </h2>
     <div id="cursos">
       <div class="curso">
