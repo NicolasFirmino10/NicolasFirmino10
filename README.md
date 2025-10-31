@@ -15,11 +15,9 @@
     </h2>
     <img src="https://i.imgur.com/Dw2sP8N.jpeg" alt="Sua Foto" width="312px" align="right" />
     <p>
-Me chamo Nicolas Firmino, sou desenvolvedor com experiência em Python e JavaScript, especializado em desenvolvimento web, criação de landing pages e com foco em análise de dados e inteligência artificial.
+Me chamo Nicolas Firmino, sou desenvolvedor apaixonado por tecnologia, com experiência prática em desenvolvimento de software, inteligência artificial e computação em nuvem. Tenho um perfil proativo, com forte capacidade de resolver problemas, colaborar em equipe e me adaptar rapidamente a novas tecnologias e contextos desafiadores.
 
-Ao longo da minha trajetória, já desenvolvi landing pages, e-commerces e um dos meus projetos mais desafiadores: um chatbot inteligente, utilizando Python e Langchain.
-
-Atualmente, estou aprofundando meus conhecimentos em análise de dados e serviços em nuvem (AWS), enquanto desenvolvo projetos web que priorizam interatividade e alta performance. Gosto de criar soluções que unem automação e análise de dados, sempre buscando eficiência e inovação.
+Atualmente, estou aprofundando meus conhecimentos em análise de dados e IA, onde busco atuar como Desenvolvedor/Analista de Dados, aliado à minha base sólida em desenvolvimento com Python. Um dos meus projetos mais relevantes foi a criação de um chatbot capaz de interpretar e processar links da web, vídeos do YouTube e documentos PDF — integrando técnicas modernas de IA.
     </p>
   </section>
   <section id="secao-de-experiencia">
@@ -110,6 +108,13 @@ Atualmente, estou aprofundando meus conhecimentos em análise de dados e serviç
       Certificados
     </h2>
     <div id="certificados">
+      <div class="certificado">
+        <p>
+          <strong>AWS AI Cloud Practitioner</strong> <br />
+          AWS<br />
+          Set de 2025 <br />
+        </p>
+      </div>
       <div class="certificado">
         <p>
           <strong>AWS Cloud Practitioner</strong> <br />
